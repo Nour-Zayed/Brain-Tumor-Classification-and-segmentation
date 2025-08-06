@@ -81,10 +81,11 @@ An end-to-end deep learning pipeline for **Brain Tumor Detection and Segmentatio
 
 ## 🔗 Useful Links
 
-* 🔗 **Kaggle Notebook (Classification):************************c************************[ation):](https://www.kaggle.com/code/nourzayed/brain-tumor-classification-resnet)**[ ](https://www.kaggle.com/code/nourzayed/brain-tumor-classification-resnet)[https://www.kaggle.com/code/nourzayed/brain-tumor-classification-re](https://www.kaggle.com/code/nourzayed/brain-tumor-classification-resnet)🔗 \*\*Kaggle Notebook (Segmentation):\*\*t[ation): ](https://www.kaggle.com/code/nourzayed/brain-tumor-segmentation-unet)[https://www.kaggle.com/code/nourzayed/brain-tumor-segmentation-unet](https://www.kaggle.com/code/nourzayed/brain-tumor-segmentation-unet)
+* 🔗 **Kaggle Notebook (Classification):************************c************************[ation):](https://www.kaggle.com/code/nourzayed/brain-tumor-classification-resnet)**[ ](https://www.kaggle.com/code/nourzayed/brain-tumor-classification-resnet)[https://www.kaggle.com/code/nourzayed/brain-tumor-classification-re](https://www.kaggle.com/code/nourzayed/brain-tumor-classification-resnet)
+*
+* 🔗 \*\*Kaggle Notebook (Segmentation):\*\*t[ation): ](https://www.kaggle.com/code/nourzayed/brain-tumor-segmentation-unet)[https://www.kaggle.com/code/nourzayed/brain-tumor-segmentation-unet](https://www.kaggle.com/code/nourzayed/brain-tumor-segmentation-unet)
 
 ---
 
-## 📢 Hashtags
 
 \#AIinHealthcare #BrainTumorDetection #MedicalImaging #DeepLearning #ResNet50 #UNet #FlaskAPI #AIProjects #HealthcareInnovation #MedicalAI #RadiologyAI #PythonAI #MedicalSegmentation #AIDeployment #AIHealthcareSolutions
