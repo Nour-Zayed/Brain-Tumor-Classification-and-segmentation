@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Brain Tumor App</title>
+    <style>
+        body {font-family: Arial, sans-serif; text-align: center; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white;}
+        .container {margin-top: 50px;}
+        select, input[type=file], input[type=submit] {padding: 10px; margin: 10px; border-radius: 10px; border: none;}
+        input[type=submit] {background-color: #4CAF50; color: white; cursor: pointer;}
+        input[type=submit]:hover {background-color: #45a049;}
+        img {margin-top: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);}
+        .result {margin-top: 20px; font-size: 20px;}
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Brain Tumor Classification & Segmentation</h1>
+        <form method="post" enctype="multipart/form-data">
+            <label>Select Mode:</label><br>
+            <select name="mode">
+                <option value="classification">Classification</option>
+                <option value="segmentation">Segmentation</option>
+            </select><br><br>
+            <label>Upload Image:</label><br>
+            <input type="file" name="file" required><br><br>
+            <input type="submit" value="Submit">
+        </form>
+        {% if result_text %}
+            <div class="result">{{ result_text }}</div>
+        {% endif %}
+        {% if result_image %}
+            <img src="data:image/jpeg;base64,{{ result_image }}" width="300">
+        {% endif %}
+    </div>
+</body>
+</html>
