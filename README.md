@@ -83,9 +83,10 @@ An end-to-end deep learning pipeline for **Brain Tumor Detection and Segmentatio
 
 * 🔗 **Kaggle Notebook (Classification):************************c************************[ation):](https://www.kaggle.com/code/nourzayed/brain-tumor-classification-resnet)**[ ](https://www.kaggle.com/code/nourzayed/brain-tumor-classification-resnet)[https://www.kaggle.com/code/nourzayed/brain-tumor-classification-re](https://www.kaggle.com/code/nourzayed/brain-tumor-classification-resnet)
 *
-* 🔗 \*\*Kaggle Notebook (Segmentation):\*\*t[ation): ](https://www.kaggle.com/code/nourzayed/brain-tumor-segmentation-unet)[https://www.kaggle.com/code/nourzayed/brain-tumor-segmentation-unet](https://www.kaggle.com/code/nourzayed/brain-tumor-segmentation-unet)
+* 🔗 **Kaggle Notebook (Segmentation):**t[ation): ](https://www.kaggle.com/code/nourzayed/brain-tumor-segmentation-unet)[https://www.kaggle.com/code/nourzayed/brain-tumor-segmentation-unet](https://www.kaggle.com/code/nourzayed/brain-tumor-segmentation-unet)
 
 ---
-
+Linkedin video:(https://www.linkedin.com/posts/nour-zayed_aiinhealthcare-braintumordetection-medicalimaging-activity-7358918713200275467-3n1l?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEbYNnsBheVO8PSIhDGYsDhkiLZHdbCeW1s)
+م
 
 \#AIinHealthcare #BrainTumorDetection #MedicalImaging #DeepLearning #ResNet50 #UNet #FlaskAPI #AIProjects #HealthcareInnovation #MedicalAI #RadiologyAI #PythonAI #MedicalSegmentation #AIDeployment #AIHealthcareSolutions
